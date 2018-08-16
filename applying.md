@@ -2,8 +2,8 @@
 
 So you want to be a software developer. Welcome to the club! It’s a fun and rewarding profession full of success and a healthy dose of failure. It’s all about puzzle solving and engineering solutions to real world problems. But how do you break into the industry if you don’t have much experience to your name?
 
-## The Junior/Senor Problem
+## The Junior/Senior Problem
 
 Many companies have openings for software developers. We’re very much an in-demand resource in today’s business landscape. After all, software is eating the world as they say. The problem a lot of companies have is they’ve become convinced quality software can only be created by people with extensive formal training and many, many years of experience in the field. Consequently, in really any market other than the biggest ones on each coast, you’ll find several openings for senior level developers, but jobs listed as junior or intermediate are usually few and far between. I think this is attributable partially to the fact there are more juniors than seniors, so there’s more competition for the junior jobs that are available. But I also think many companies overestimate how complex their needs are when it comes to app architecture. The bottom line is that much of the software written in modern companies is fairly utilitarian and mostly solve problems that have been solved before. The idea that all of it absolutely requires a senior level developer with 10 years of experience is just silly.
 
-In addition, the immense amount of knowledge and skills transfer necessary to keep the pipeline of viable developers a healthy one requires those juniors companies think aren’t worth investing in to spend time in a position where they can learn from the seniors that came before. Why this isn’t apparent to more managers is baffling to me
+In addition, the immense amount of knowledge and skills transfer necessary to keep the pipeline of viable developers a healthy one requires those juniors companies think aren’t worth investing in to spend time in a position where they can learn from the seniors that came before. Why this isn’t apparent to more managers is baffling to me.
